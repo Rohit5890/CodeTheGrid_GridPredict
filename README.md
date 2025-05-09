@@ -1,6 +1,6 @@
 # 🏁 Emilia-Romagna Grand Prix Race Position Predictor
 
-This project predicts the **finishing positions** of **Alex Albon** and **Carlos Sainz**, and estimates the **Constructors' points** for **Williams Racing** in the Emilia-Romagna Grand Prix using historical Formula 1 data (1950–2020) from Kaggle.
+This project predicts the **finishing positions** of **Alex Albon** and **Carlos Sainz**, and estimates the **Constructors' points** for **Williams Racing** in the Emilia-Romagna Grand Prix using historical Formula 1 data (1950–2024) from Kaggle.
 
 ---
 
